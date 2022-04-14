@@ -1,2 +1,2 @@
-# API-dog-hero
-API da dog-hero feita com node.js e typescript, com a função de criara passeios
+# DogHero-API
+API DogHero feita com Typescript com framework Node.js
